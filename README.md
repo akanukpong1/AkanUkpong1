@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I’m Akan 👋  
 
-<!--
-**akanukpong1/AkanUkpong1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨🏽‍💻 About Me
+I am a detail-oriented learner with a strong interest in **data analysis and business insights**.  
+I enjoy working with data to uncover patterns, analyze customer behaviour, and support better decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Skills
+- Microsoft Excel (Pivot Tables, Power Query, Data Cleaning)
+- SQL (Data querying and analysis)
+- Power BI (Dashboards & visualization)
+- Data Analysis & Reporting
+- Customer Behaviour & Profitability Analysis
+
+## 📊 Projects
+Here you’ll find projects related to:
+- Online sales analysis
+- Customer behaviour studies
+- Profitability analysis
+- Data cleaning and reporting using Excel & SQL
+
+Each repository includes:
+- Project objective
+- Dataset
+- Analysis approach
+- Key insights
+
+## 🎯 Career Goal
+To grow as a **Data Analyst** by building practical projects and applying data-driven solutions to real-world problems.
+
+## 📫 Contact
+- GitHub: https://github.com/your-username
