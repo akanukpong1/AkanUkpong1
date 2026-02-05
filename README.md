@@ -29,5 +29,5 @@ Each repository includes:
 ## 🎯 Career Goal
 To grow as a **Data Analyst** by building practical projects and applying data-driven solutions to real-world problems.
 
-## 📫 Contact
-- GitHub: https://github.com/your-username
+## 📫 Contact:-https://www.linkedin.com/in/akan-ukpong-70145917b/
+- GitHub: https://github.com/your-usernamehttps://github.com/akanukpong1/AkanUkpong1/edit/main/README.md
